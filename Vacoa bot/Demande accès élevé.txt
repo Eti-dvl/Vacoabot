@@ -1,0 +1,3 @@
+We intend to use the high level of the API in order to be able to create a bot. This bot will be hosted on a raspberry pi and can be called by mentioning it with "@VacoaBot". It will send a message to the calling user to give them statistics on their political leanings.
+When the bot is called, it will look for political figures in its subscriptions. Then he will look at the political personalities in the subscriptions of his subscriptions. The data collected will allow us to establish statistics such as the rate of politicization or the percentage of correspondence with the different candidates for the elections in France in 2022.
+This application will be triggered using the mention "@VacoaBot" and will send a message to the person who called it.
