@@ -31,7 +31,7 @@ Par exemple : https://github.com/Angristan/twython-scripts/blob/master/cron.
 
 # Ça donne quoi ?
 
-J'ai mis tout ceci en application sur un Raspberry Pi. Vous pouvez le suivre : [@AngristanRPiBot](https://twitter.com/AngristanRPiBot/).
+J'ai mis tout ceci en application sur un Raspberry Pi. Vous pouvez le suivre : [@AngristanRPiBot](https://twitter.com/VacoaBot/).
 
 Enjoy !
 
